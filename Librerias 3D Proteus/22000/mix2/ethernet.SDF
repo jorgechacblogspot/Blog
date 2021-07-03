@@ -1,0 +1,47 @@
+ISIS SCHEMATIC DESCRIPTION FORMAT 6.1
+=====================================
+Design:   C:\Users\Pavel\Desktop\Ethernet\ethernet.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  08/11/11
+Modified: 08/11/11
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,1    
+CN1,"ETHERNET CONN 1","ETHERNET CONN 1",EID=1,PACKAGE="ETHERNET CONN 1"
+
+*NETLIST,9    
+#00000,1
+CN1,PS,1
+
+#00001,1
+CN1,PS,2
+
+#00002,1
+CN1,PS,3
+
+#00003,1
+CN1,PS,4
+
+#00004,1
+CN1,PS,5
+
+#00005,1
+CN1,PS,6
+
+#00006,1
+CN1,PS,7
+
+#00007,1
+CN1,PS,8
+
+#00008,2
+CN1,PS,9
+CN1,PS,10
+
+*GATES,0    
+

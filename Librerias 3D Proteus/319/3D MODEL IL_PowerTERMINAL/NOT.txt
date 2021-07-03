@@ -1,0 +1,17 @@
+Arkadaþlar 3D Model dosyalarýný, diðer malzeme dosyalarýnýzýn arasýnda karýþmamasý için
+3DMOD isimli klasörün içine attým. Onun için AGMax_ILPT.LIB, AGMax_ILPT.IDX dosyalarýný 
+ve 3DMOD klasörünü içindeki dosyalarý çýkarmadan olduðu gibi
+
+C:\Program Files\Labcenter Electronics\Proteus 7 Professional\LIBRARY klasörünün içerisine
+atýn, malzeme kýlýflarýný daha sonra, uygun olan kendi istediðiniz kütüphane bloðuna taþýyabilirsiniz.
+
+Güle güle kullanýn...
+
+Model dosyalarýný kontrol etmek için AGMax_ILPT isimli PCB dosyasýna bakabilirsiniz...
+
+Bilgisayarýnýzda Adobe Acrobat 3D Professional programý kurulu ise 
+çizmiþ olduðum 3D modellere daha detaylý olarak bakabilirsiniz.
+
+Alteros 3D programýda iþinizi basitçe görebilir
+
+Ýyi çalýþmalar...

@@ -1,0 +1,5 @@
+TYPE=MODEL
+ANGLE=0
+SCALE=0.01
+NAME=Model
+FILE=relle_hjr.3ds

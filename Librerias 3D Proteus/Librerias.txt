@@ -1,0 +1,29 @@
+
+---------------------------------
+L I B R E R I A S  P R O T E U S
+---------------------------------
+
+Coleccion personal de librerias que he utilizado y utilizo, en el software de automatización de diseño electrónico Proteus.
+
+Cada carpeta contiene varias librerias, para previsualizar primero lo que esta buscando o lo que va abrir, hay un archivo llamado
+<muestra.png> el cual es un pantallazo del contenido de la libreria. Si usted encuentra lo que busca, tomese la molestia de agradecer,
+mi trabajo y mi tiempo valen, al igual que el suyo.
+
+Si usted tiene otras librerias que tambien puedan ser utiles a otras personas, compartalas. Puede enviarlas al correo jorgechac@icloud.com
+y yo las publicare en el blog.
+
+Muchas gracias por participar y ser parte de esta pequeña comunidad.
+
+
+********************************************************************
+En este link encontrara gratis el instalador del Proteus, aunque el post se escribio y se titulo con la version 8.10 cada vez que se actualiza la version del proteus, el mismo post se actualiza, para no estar creando siempre nuevos post del mismo tema, pero con otra version
+
+https://jorgechac.blogspot.com/2020/08/proteus-professional-v810-sp0-build.html
+
+
+
+Nota. Para agregar otras librerias a Proteus copien el contenido de las carpetas al directorio "C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY"
+
+======================================
+Visita: https://jorgechac.blogspot.com
+======================================

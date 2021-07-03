@@ -1,0 +1,28 @@
+ISIS SCHEMATIC DESCRIPTION FORMAT 6.1
+=====================================
+Design:   D:\Documents and Settings\Belgitaes\Escritorio\Power Jack Dc\Power Jack Dc.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  04/06/07
+Modified: 13/06/07
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,1    
+J1,"POWER JACK DC","POWER JACK DC",EID=2,PACKAGE="JACK DC"
+
+*NETLIST,3    
+#00000,1
+J1,PS,+
+
+#00001,1
+J1,PS,3
+
+#00002,1
+J1,PS,-
+
+*GATES,0    
+

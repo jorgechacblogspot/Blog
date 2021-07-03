@@ -1,0 +1,10 @@
+Arkadaþlar 3D Model dosyalarýný, diðer malzeme dosyalarýnýzýn arasýnda karýþmamasý için
+3DMOD isimli klasörün içine attým. Onun için AGMaxDIP.LIB, AGMaxDIP.IDX dosyalarýný 
+ve 3DMOD klasörünü içindeki dosyalarý çýkarmadan olduðu gibi
+
+C:\Program Files\Labcenter Electronics\Proteus 7 Professional\LIBRARY klasörünün içerisine
+atýn ve güle güle kullanýn...
+
+Model dosyalarýný kontrol etmek için DIP 300_600 isimli PCB dosyasýna bakabilirsiniz...
+
+Ýyi çalýþmalar...

@@ -1,0 +1,7 @@
+TYPE=MODEL
+File=Jack Dc.3ds
+NAME=Merged
+ANGLE=00
+SCALE=1in
+X=-2.5
+Y=  5.8

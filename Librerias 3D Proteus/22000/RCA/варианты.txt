@@ -1,0 +1,7 @@
+RCJ-XX1 	  Black 	
+RCJ-XX2 	  Red 	
+RCJ-XX3 	  White 	
+RCJ-XX4 	  Yellow 		
+RCJ-XX5 	  Blue 		
+RCJ-XX6 	  Green 	
+RCJ-XX7 	  Orange 	

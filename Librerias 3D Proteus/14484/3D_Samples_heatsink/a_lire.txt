@@ -1,0 +1,152 @@
+*****************************************************************************
+*  Remy MALLARD
+*  Copyrights: SONELEC-MUSIQUE, Remy Mallard - 2009
+*  http://www.sonelec-musique.com
+*  email: voir page "Contact" sur mon site Web
+*  FRANCE
+*****************************************************************************
+*  
+*  19/11/2009 
+*  
+*  Dernière mise à jour des librairies : 19/11/2009
+*  
+*****************************************************************************
+*  FREEWARE 
+*****************************************************************************
+
+
+0 - Infos de dernière minute
+1 - Presentation
+2 - Configuration requise
+3 - Installation
+4 - Evolutions des librairies
+5 - Historique
+6 - Evolutions demandées (en attente ou réalisées)
+7 - Droits d'utilisation et copyrights
+8 - Crédits
+
+
+0 - Infos de dernière minute
+----------------------------
+- Sans objet.
+
+
+1 - Presentation
+----------------
+Les bibliothèques Proteus que je mets à disposition ici incluent :
+- des composants et des symboles utilisables dans le logiciel ISIS
+- des empreintes de composants utilisables dans ARES
+- des modèles 3D au format 3DS utilisables dans le visualiseur 3D de Ares.
+Copyrights: SONELEC-MUSIQUE, Remy Mallard - 2007
+
+
+2 - Configuration requise
+-------------------------
+- Proteus V7.x, les versions précédentes de Proteus ne sont pas supportées.
+
+
+3 - Installation 
+-------------------------------------------------------------------
+- Placer les librairies rm_sch_*.lib dans le répertoire par défaut LIBRARY 
+de Proteus, ou mieux, dans un répertoire de votre choix qui devra être 
+spécifié dans la fenêtre des options des chemins d'accès aux librairies 
+(dans Isis, menu System, Set Path, champ Librairy folders).
+- Placer les librairies rm_pcb_*.lib dans le répertoire par défaut LIBRARY 
+de Proteus, ou mieux, dans un répertoire de votre choix qui devra être 
+spécifié dans la fenêtre des options des chemins d'accès aux librairies 
+(dans Ares, menu System, Set Path, champ Librairy folders).
+- Placer les modèles 3D *.3ds dans le répertoire par défaut LIBRARY 
+de Proteus, ou mieux, dans un répertoire de votre choix qui devra être 
+spécifié dans la fenêtre des options des chemins d'accès aux librairies 
+(dans Ares, menu System, Set Path, champ Librairy folders).
+
+
+4 - Evolutions des librairies
+-----------------------------
+Toute demande d'évolution, de modification ou de correction, sera prise en 
+compte. Afin de gérer correctement l'évolution des composants, le paragraphe 
+"Evolutions demandées" du fichier A_lire.txt (celui que vous lisez 
+actuellement) comportera vos demandes. Les demandes traitées apparaitront dans
+le paragraphe "Historique" de ce même fichier A_lire.txt.
+
+Remarque : le suivi ne sera pas forcément assuré de façon systématique et dans 
+des délais courts.
+
+
+5 - Historique
+--------------
+19/11/2009
+- Ajout modèles 3D de quelques dissipateurs thermiques.
+- Ajout fichier Ares de demo pour les dissipateurs thermiques.
+
+01/02/2009
+- Ajout Afficheur 7 segments type HP-5082-7653 (HP-5082-7653.3ds)
+- Ajout afficheur 7 segments type TOD-5263BR (TOD-5263BR.3ds)
+- Ajout led bicolore rectangulaire (Led_Bicolour_Rect_001.3ds)
+
+20/05/2007
+- Ajout Pentawatt 5 (TO220_5.3ds).
+
+24/04/2007
+- Ajout fichier 3DS manquant Cap_Radial_01.3ds.
+
+27/03/2007
+- Ajout micro electret 2 pattes Micro_Electret_01.3ds.
+- Ajout d'une fente aux vis des potentiometres ajustables.
+- Ajout d'un (faux) trou au boitier TO220 (en attendant d'en faire un vrai).
+
+19/03/2007
+- Modification Modèle TO3.3ds : légère augmentation de l'épaisseur du socle 
+du boitier, et légère diminution du nombre de polygones.
+
+18/03/2007
+- Ajout potentiomètre Pot_01.3ds.
+- Ajout boitier transistor TO3.3ds
+- Ajout fichier RWIE "Dimensions_references.u3d" permettant de définir dès le 
+début de la conception d'un modèle 3D, les bonnes dimensions.
+- Ajout fichier "DIL14_PinsOnly.3ds" qui est un premier export 3D d'un 
+package DIL14 avec seulement les pattes, pour tests de mise à l'échelle du
+composant 3D dans les vues 3D de Ares.
+- Modification des paramètres de mise à l'echelle des modèles 3D dans le 
+fichier de démonstration 3D_Samples.
+
+17/03/2007
+- Première mise à disposition
+
+
+6 - Evolutions demandées (en attente ou réalisées)
+--------------------------------------------------
+- Aucune pour le moment
+
+{
+EN ATTENTE DE REALISATION.
+IMPLEMENTE le xx/xx/xxxx.
+MODIFIE le xx/xx/xxxx.
+CORRIGE le xx/xx/xxxx.
+}
+
+
+7 - Droits d'utilisation et copyrights
+--------------------------------------
+Vous pouvez faire ce que vous voulez des librairies et modèles 3D mis à 
+disposition ici, mais vous serez gentil de ne point clamer que cela est 
+de vous.
+
+
+
+8 - Crédit
+-----------
+Grands remerciements à la société RW-Designer pour son logiciel 
+RealWorld Icon Editor, et plus particulierement à vlastimil.miler, qui a 
+fait preuve d'une écoute exceptionnelle de mon besoin, et qui a assuré 
+un service après vente superbe... avant même que je n'achete leur logiciel.
+http://www.rw-designer.com/
+
+
+--------------
+
+Pour tout renseignements complémentaires, n'hésitez pas à me contacter,
+adresse mail via page "Contact" sur mon site Web :
+http://www.sonelec-musique.com
+
+Rémy Mallard

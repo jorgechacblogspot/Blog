@@ -1,0 +1,7 @@
+Reemplaza las librerias en la dirección.
+
+C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY
+
+Encuentra mayor información acerca de estas librerias en
+
+http://www.innovadomotics.com/mn-tuto/mn-mcr/micro-tips.html
